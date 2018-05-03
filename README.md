@@ -19,3 +19,4 @@ Para mais informações sobre Rmarkdown essas cheatsheets podem ajudar:
   Além do [guia de referência](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) do [documento compartilhado no rpubs](http://rpubs.com/gomes555/reticulate)
   
   
+*Motificação*
